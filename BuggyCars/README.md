@@ -11,7 +11,8 @@ Setup required:
 - Java installed
 - Eclipse IDE installed
 - Chrome Webdriver downloaded and installed
-- Ensure selenium-server-4.9.0.jar is in Referenced Libraries of this project
+- Selenium-server-4.9.0.jar downloaded, and added to classpath
+  (Open project in Eclipse - Select Project in the top bar - Properties - Java build path - Libraries - Classpath - Add External JARs)
 
 How to run the test: 
 - open the project with Eclipse IDE
